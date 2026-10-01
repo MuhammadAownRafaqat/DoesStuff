@@ -1,5 +1,5 @@
 # 1. Get input from the user
-user_text = input("Say something to the bot: ").lower()
+user_text = input("Say something: ").lower()
 
 # Starting values (deliberately low so it has to learn)
 w_hello = 0.6
